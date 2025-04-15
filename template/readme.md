@@ -21,6 +21,11 @@ Exemplo:
 - No menu lateral, clique em **Clientes**
 - Em seguida, clique em **Novo Cadastro**
 
+```python
+
+a = 23
+```
+
 ---
 
 ### 2. Preenchimento de dados
