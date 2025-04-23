@@ -30,6 +30,8 @@ Passo 2 - Informar dados
 - **Senha** (obrigatório): insira uma senha forte
 - **Confirmação de Senha** (obrigatório): insira novamente a senha criada para verificação 
 
+![Alt text]()
+
 ---
 
 ### 3. Ações disponíveis
