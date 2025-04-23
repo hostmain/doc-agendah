@@ -13,6 +13,7 @@
 ## 🧭 Etapas para uso
 
 ### 1. Acesso à funcionalidade
+- No menu lateral, clique em **Profissional**
 - Na tela de **Profissionais**, clique no ícone da **caneta** que aparece ao lado direito do profissional que você deseja editar
 - Ao realizar isso, você será direcionado a tela **Editar profissional**
 
