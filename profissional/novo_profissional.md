@@ -24,13 +24,15 @@ Passo 1 - Validar e-mail
 - **E-mail**: informe o e-mail do profissional para que seja validado
 - Em seguida, clique em **validar e-mail**
 
+![Alt text](validar_email.png)
+
 Passo 2 - Informar dados
 - **Nome**: insira o nome do profissional  
 - **CPF** (obrigatório): insira um CPF válido
 - **Senha** (obrigatório): insira uma senha forte
 - **Confirmação de Senha** (obrigatório): insira novamente a senha criada para verificação 
 
-![Alt text]()
+![Alt text](preenchimento_cadastro.png)
 
 ---
 
