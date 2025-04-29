@@ -14,7 +14,7 @@
 - No seu navegador, digite (https://agenda.hostmain.com.br/)
 - Isso retornará a tela de login do sistema
 
-![Alt text](tela_login1.png)
+![Alt text](tela_login1_desktop.png)
 
 ---
 
@@ -23,7 +23,7 @@ Preencha os campos:
 - **Usuário**: insira o seu nome de usuário
 - **Senha**: insira a sua senha
 
-![Alt text](tela_login2.png)
+![Alt text](tela_login2_desktop.png)
 
 ---
 
