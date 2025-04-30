@@ -5,7 +5,7 @@
 
 > **Pré-requisitos:**    
 > - Estar logado no sistema  
-> - Ter permissão de administrador  
+> - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
 
 ---
@@ -17,7 +17,11 @@
 - Na tela de **Profissionais**, clique no ícone da **caneta** que aparece ao lado direito do profissional que você deseja editar
 - Ao realizar isso, você será direcionado a tela **Editar profissional**
 
-![Alt text](editar_profissional.png)
+> Versão Desktop
+![Alt text](img/Desktop/editar_profissional_parte1.png)
+
+> Versão mobile
+![Alt text](img/Mobile/editar_profissional_parte1.png)
 ---
 
 ### 2. Preenchimento de dados
@@ -26,7 +30,11 @@ Preencha os campos que deseja alterar:
 - **E-mail**: informe um novo e-mail para o profissional
 - **CPF**: informe um novo CPFuma senha forte
 
-![Alt text](editar_profissional2.png)
+> Versão Desktop
+![Alt text](img/Desktop/editar_profissional_parte2.png)
+
+> Versão mobile
+![Alt text](img/Mobile/editar_profissional_parte2.png)
 ---
 
 ### 3. Ações disponíveis 

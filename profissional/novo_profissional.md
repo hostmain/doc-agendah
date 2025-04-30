@@ -5,7 +5,7 @@
 
 > **Pré-requisitos:**    
 > - Estar logado no sistema  
-> - Ter permissão de administrador  
+> - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
 
 ---
@@ -16,7 +16,11 @@
 - No menu lateral, clique em **Profissional**
 - Em seguida, clique em **Novo profissional**
 
-![Alt text](novo_profissional_parte1_desktop.gif)
+> Versão desktop
+![Alt text](img/Desktop/novo_profissional_parte1.gif)
+
+> Versão mobile
+![Alt text](img/Mobile/novo_profissional_parte1.gif)
 ---
 
 ### 2. Preenchimento de dados
@@ -24,7 +28,11 @@ Passo 1 - Validar e-mail
 - **E-mail**: informe o e-mail do profissional para que seja validado
 - Em seguida, clique em **validar e-mail**
 
-![Alt text](novo_profissional_parte2_desktop.png)
+> Versão desktop
+![Alt text](img/Desktop/novo_profissional_parte2.png)
+
+> Versão mobile
+![Alt text](img/Mobile/novo_profissional_parte2.png)
 
 Passo 2 - Informar dados
 - **Nome**: insira o nome do profissional  
@@ -32,7 +40,11 @@ Passo 2 - Informar dados
 - **Senha** (obrigatório): insira uma senha forte
 - **Confirmação de Senha** (obrigatório): insira novamente a senha criada para verificação 
 
-![Alt text](novo_profissional_parte3_desktop.png)
+> Versão desktop
+![Alt text](img/Desktop/novo_profissional_parte3.png)
+
+> Versão mobile
+![Alt text](img/Mobile/novo_profissional_parte3   .png)
 
 ---
 
