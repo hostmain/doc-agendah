@@ -21,6 +21,7 @@
 
 > Versão mobile
 ![Alt text](img/Mobile/novo_profissional_parte1.gif)
+
 ---
 
 ### 2. Preenchimento de dados
@@ -44,7 +45,7 @@ Passo 2 - Informar dados
 ![Alt text](img/Desktop/novo_profissional_parte3.png)
 
 > Versão mobile
-![Alt text](img/Mobile/novo_profissional_parte3   .png)
+![Alt text](img/Mobile/novo_profissional_parte3.png)
 
 ---
 
@@ -66,8 +67,6 @@ Passo 2 - Informar dados
 ---
 
 ### 5. Dicas e observações
-Inclua recomendações ou observações importantes.  
-Exemplo:
 > 💡 Dica: crie senhas fortes ao cadastrar um novo profissional.
 
 ---

@@ -25,7 +25,7 @@
 
 ---
 
-### 3. Ações disponíveis 
+### 2. Ações disponíveis 
 - **Sim! Pode excluir**: exclui os dados do serviço 
 - **Cancelar**: descarta a ação e volta à tela anterior  
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 4. Validações e mensagens
+### 3. Validações e mensagens
 - Após excluir com sucesso: `Serviço deletado com sucesso!`  
 
 ---

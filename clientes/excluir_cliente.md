@@ -1,4 +1,4 @@
-# 📘 Excluir profissional
+# 📘 Excluir Cliente
 
 > **Finalidade:**  
 > Esta tela permite ao usuário excluir o profissional cadastrado.
@@ -13,15 +13,15 @@
 ## 🧭 Etapas para uso
 
 ### 1. Acesso à funcionalidade 
-- No menu lateral, clique em **Profissional**
-- Na tela de **Profissionais**, clique no ícone **X** que aparece ao lado direito do profissional que você deseja excluir
-- Ao realizar essa ação, você será direcionado a tela **Excluir Profissional**
+- No menu lateral, clique em **Clientes**
+- Na tela de **Clientes**, clique no ícone **X** que aparece ao lado direito do cliente que você deseja excluir
+- Ao realizar essa ação, você será direcionado a tela **Excluir Cliente**
 
 > Versão Desktop
-![Alt text](img/Desktop/excluir_profissional_parte1.png)
+![Alt text](img/Desktop/excluir_cliente_parte1.png)
 
 > Versão mobile
-![Alt text](img/Mobile/excluir_profissional_parte1.png)
+![Alt text](img/Mobile/excluir_cliente_parte1.png)
 
 ---
 
@@ -31,21 +31,20 @@
 
 
 > Versão Desktop
-![Alt text](img/Desktop/excluir_profissional_parte2.png)
+![Alt text](img/Desktop/excluir_cliente_parte2.png)
 
 > Versão mobile
-![Alt text](img/Mobile/excluir_profissional_parte2.png)
+![Alt text](img/Mobile/excluir_cliente_parte2.png)
 
 ---
 
 ### 3. Validações e mensagens
-- Após excluir com sucesso: `Profissional removido com sucesso!`  
+- Após excluir com sucesso: `Cliente removido com sucesso!`  
 
 ---
 
 ## 🔄 Versões e Atualizações
 
 - **Versão 1.0** – Documento criado em 15/04/2025
-- **Versão 1.1** – Atualização de campos obrigatórios (20/04/2025)
 
 ---

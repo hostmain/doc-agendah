@@ -32,6 +32,7 @@ Preencha os campos que deseja alterar:
 - **Valor (R$)**: informe um novo valor
 - **Descrição do Serviço**: informe uma nova descrição para o serviço
 - **Profissional**: escolha um novo profissional
+- Clique em **Salvar**
 
 > Versão Desktop
 ![Alt text](img/Desktop/editar_servico_parte2.png)
