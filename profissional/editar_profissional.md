@@ -28,7 +28,7 @@
 Preencha os campos que deseja alterar:
 - **Nome**: informe um novo nome
 - **E-mail**: informe um novo e-mail para o profissional
-- **CPF**: informe um novo CPFuma senha forte
+- **CPF**: informe um novo CPF e uma senha forte
 
 > Versão Desktop
 ![Alt text](img/Desktop/editar_profissional_parte2.png)
