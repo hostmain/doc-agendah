@@ -36,7 +36,7 @@ Passo 1 - Validar e-mail
 ![Alt text](img/novo_profissional_parte2_desktop.png)
 
 > Versão mobile
-![Alt text](img/novo_profissional_parte2_mobile.png)
+![Alt text](img/novo_profissional_parte2_mobile.png)b
 
 Passo 2 - Informar dados
 - **Nome**: insira o nome do profissional  
@@ -48,7 +48,7 @@ Passo 2 - Informar dados
 ![Alt text](img/novo_profissional_parte3_desktop.pdf)
 
 > Versão mobile
-![Alt text](img/novo_profissional_parte3_mobile.pdf)
+![Alt text](img/)
 
 ---
 
