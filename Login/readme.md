@@ -42,6 +42,5 @@ Ao tentar logar com informações de usuário erradas o sistema não avançará 
 ## 🔄 Versões e Atualizações
 
 - **Versão 1.0** – Documento criado em 15/04/2025
-- **Versão 1.1** – Atualização de campos obrigatórios (20/04/2025)
 
 ---

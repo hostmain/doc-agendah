@@ -7,6 +7,9 @@
 > - Estar logado no sistema  
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
+> - Veja detalhes de como editar e excluir um profissional cadastrado em:  
+> - [Editar profissional](../editar_profissional/readme.md)
+> - [Excluir profissional](../excluir_profissional/readme.md)
 
 ---
 
@@ -17,10 +20,10 @@
 - Em seguida, clique em **Novo profissional**
 
 > Versão desktop
-![Alt text](img/Desktop/novo_profissional_parte1.gif)
+![Alt text](img/novo_profissional_parte1_desktop.gif)
 
 > Versão mobile
-![Alt text](img/Mobile/novo_profissional_parte1.gif)
+![Alt text](img/novo_profissional_parte1_mobile.gif)
 
 ---
 
@@ -30,10 +33,10 @@ Passo 1 - Validar e-mail
 - Em seguida, clique em **validar e-mail**
 
 > Versão desktop
-![Alt text](img/Desktop/novo_profissional_parte2.png)
+![Alt text](img/novo_profissional_parte2_desktop.png)
 
 > Versão mobile
-![Alt text](img/Mobile/novo_profissional_parte2.png)
+![Alt text](img/novo_profissional_parte2_mobile.png)
 
 Passo 2 - Informar dados
 - **Nome**: insira o nome do profissional  
@@ -42,17 +45,17 @@ Passo 2 - Informar dados
 - **Confirmação de Senha** (obrigatório): insira novamente a senha criada para verificação 
 
 > Versão desktop
-![Alt text](img/Desktop/novo_profissional_parte3.png)
+![Alt text](img/novo_profissional_parte3_desktop.pdf)
 
 > Versão mobile
-![Alt text](img/Mobile/novo_profissional_parte3.png)
+![Alt text](img/novo_profissional_parte3_mobile.pdf)
 
 ---
 
 ### 3. Ações disponíveis
 - **validar e-mail**: grava o e-mail preenchido e realiza a validação
 - **Salvar**: grava os dados preenchidos  
-- **Cancelar**: descarta alterações e volta à tela anterior  
+- **Cancelar**: cancela as alterações e volta à tela anterior  
 
 ---
 
@@ -67,13 +70,12 @@ Passo 2 - Informar dados
 ---
 
 ### 5. Dicas e observações
-> 💡 Dica: crie senhas fortes ao cadastrar um novo profissional.
+> 💡 Dica: crie uma senha forte ao cadastrar um novo profissional.
 
 ---
 
 ## 🔄 Versões e Atualizações
 
 - **Versão 1.0** – Documento criado em 15/04/2025
-- **Versão 1.1** – Atualização de campos obrigatórios (20/04/2025)
 
 ---

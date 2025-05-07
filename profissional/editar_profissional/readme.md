@@ -7,6 +7,8 @@
 > - Estar logado no sistema  
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
+> - Ter um profissional cadastrado
+> - [Clique aqui para saber como cadastrar um novo profissional](../novo_profissional.md)
 
 ---
 
@@ -18,10 +20,13 @@
 - Ao realizar isso, você será direcionado a tela **Editar profissional**
 
 > Versão Desktop
-![Alt text](img/Desktop/editar_profissional_parte1.png)
+
+![Alt text](img/editar_profissional_parte1_desktop.gif)
 
 > Versão mobile
-![Alt text](img/Mobile/editar_profissional_parte1.png)
+
+![Alt text](img/editar_profissional_parte1_mobile.gif)
+
 ---
 
 ### 2. Preenchimento de dados
@@ -32,15 +37,18 @@ Preencha os campos que deseja alterar:
 - Clique em **Salvar**
 
 > Versão Desktop
-![Alt text](img/Desktop/editar_profissional_parte2.png)
+
+![Alt text](img/editar_profissional_parte2_desktop.png)
 
 > Versão mobile
-![Alt text](img/Mobile/editar_profissional_parte2.png)
+
+![Alt text](img/editar_profissional_parte2_mobile.png)
+
 ---
 
 ### 3. Ações disponíveis 
 - **Salvar**: grava os dados preenchidos  
-- **Cancelar**: descarta alterações e volta à tela anterior  
+- **Cancelar**: cancela as alterações e volta à tela anterior  
 
 ---
 
@@ -52,6 +60,5 @@ Preencha os campos que deseja alterar:
 ## 🔄 Versões e Atualizações
 
 - **Versão 1.0** – Documento criado em 15/04/2025
-- **Versão 1.1** – Atualização de campos obrigatórios (20/04/2025)
 
 ---

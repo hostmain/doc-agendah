@@ -7,6 +7,8 @@
 > - Estar logado no sistema  
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
+> - Ter um profissional cadastrado
+> - [Clique aqui para saber como cadastrar um novo profissional](../novo_profissional/readme.md)
 
 ---
 
@@ -18,23 +20,27 @@
 - Ao realizar essa ação, você será direcionado a tela **Excluir Profissional**
 
 > Versão Desktop
-![Alt text](img/Desktop/excluir_profissional_parte1.png)
+
+![Alt text](img/excluir_profissional_parte1_desktop.gif)
 
 > Versão mobile
-![Alt text](img/Mobile/excluir_profissional_parte1.png)
+
+![Alt text](img/excluir_profissional_parte1_mobile.gif)
 
 ---
 
 ### 2. Ações disponíveis 
-- **Sim! Pode excluir**: exclui os dados do profissional 
-- **Cancelar**: descarta a ação e volta à tela anterior  
+- **Sim! Pode excluir**: caso escolha essa opção, os dados do profissional cadastrado serão permanentemente excluídos
+- **Cancelar**: cancela a ação e volta à tela anterior  
 
 
 > Versão Desktop
-![Alt text](img/Desktop/excluir_profissional_parte2.png)
+
+![Alt text](img/excluir_profissional_parte2_desktop.png)
 
 > Versão mobile
-![Alt text](img/Mobile/excluir_profissional_parte2.png)
+
+![Alt text](img/excluir_profissional_parte2_mobile.png)
 
 ---
 
@@ -46,6 +52,5 @@
 ## 🔄 Versões e Atualizações
 
 - **Versão 1.0** – Documento criado em 15/04/2025
-- **Versão 1.1** – Atualização de campos obrigatórios (20/04/2025)
 
 ---

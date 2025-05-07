@@ -41,7 +41,7 @@ Exemplo:
 Liste e explique os botões ou ações disponíveis na tela.  
 Exemplo:
 - **Salvar**: grava os dados preenchidos  
-- **Cancelar**: descarta alterações e volta à tela anterior  
+- **Cancelar**: cancela alterações e volta à tela anterior  
 
 ---
 
