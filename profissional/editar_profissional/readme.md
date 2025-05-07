@@ -8,7 +8,7 @@
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
 > - Ter um profissional cadastrado
-> - [Clique aqui para saber como cadastrar um novo profissional](../novo_profissional.md)
+> - [Clique aqui para saber como cadastrar um novo profissional](../novo_profissional/readme.md)
 
 ---
 
