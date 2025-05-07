@@ -45,7 +45,7 @@ Passo 2 - Informar dados
 - **Confirmação de Senha** (obrigatório): insira novamente a senha criada para verificação 
 
 > Versão desktop
-![Alt text](img/novo_profissional_parte3_desktop.png)
+![Alt text](../novo_profissional/img/novo_profissional_parte3_desktop.png)
 
 > Versão mobile
 ![Alt text](img/novo_profissional_parte3_mobile.png)
