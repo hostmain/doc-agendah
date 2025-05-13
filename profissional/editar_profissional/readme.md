@@ -16,7 +16,7 @@
 
 ### 1. Acesso à funcionalidade
 - No menu lateral, clique em **Profissional**
-- Na tela de **Profissionais**, clique no ícone da **caneta** que aparece ao lado direito do profissional que você deseja editar
+- Na tela de **Profissionais**, clique no ícone da **caneta** que aparece ao lado direito do profissional que você deseja editar, na aba ações
 - Ao realizar isso, você será direcionado a tela **Editar profissional**
 
 > Versão Desktop

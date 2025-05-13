@@ -35,7 +35,7 @@ Para validar seu login clique em:
 ---
 
 ### 4. Validações e mensagens
-Ao tentar logar com informações de usuário erradas o sistema não avançará para a próxima tela
+Ao tentar logar com informações de usuário inválidas o sistema não avançará para a próxima tela
 
 ---
 

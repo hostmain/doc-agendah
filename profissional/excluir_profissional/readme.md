@@ -16,7 +16,7 @@
 
 ### 1. Acesso à funcionalidade 
 - No menu lateral, clique em **Profissional**
-- Na tela de **Profissionais**, clique no ícone **X** que aparece ao lado direito do profissional que você deseja excluir
+- Na tela de **Profissionais**, clique no ícone **X** que aparece ao lado direito do profissional que você deseja excluir, na barra ações
 - Ao realizar essa ação, você será direcionado a tela **Excluir Profissional**
 
 > Versão Desktop

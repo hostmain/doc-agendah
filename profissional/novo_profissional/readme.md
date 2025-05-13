@@ -7,7 +7,7 @@
 > - Estar logado no sistema  
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
-> - Veja detalhes de como editar e excluir um profissional cadastrado em:  
+> - Veja detalhes de como editar ou excluir um profissional cadastrado em:  
 > - [Editar profissional](../editar_profissional/readme.md)
 > - [Excluir profissional](../excluir_profissional/readme.md)
 
@@ -20,9 +20,11 @@
 - Em seguida, clique em **Novo profissional**
 
 > Versão desktop
+
 ![Alt text](img/novo_profissional_parte1_desktop.gif)
 
 > Versão mobile
+
 ![Alt text](img/novo_profissional_parte1_mobile.gif)
 
 ---
@@ -33,9 +35,11 @@ Passo 1 - Validar e-mail
 - Em seguida, clique em **validar e-mail**
 
 > Versão desktop
+
 ![Alt text](img/novo_profissional_parte2_desktop.png)
 
 > Versão mobile
+
 ![Alt text](img/novo_profissional_parte2_mobile.png)
 
 Passo 2 - Informar dados
@@ -45,9 +49,11 @@ Passo 2 - Informar dados
 - **Confirmação de Senha** (obrigatório): insira novamente a senha criada para verificação 
 
 > Versão desktop
+
 ![Alt text](../novo_profissional/img/novo_profissional_parte3_desktop.png)
 
 > Versão mobile
+
 ![Alt text](img/novo_profissional_parte3_mobile.png)
 
 ---
