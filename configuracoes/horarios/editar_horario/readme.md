@@ -7,6 +7,8 @@
 > - Estar logado no sistema  
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
+> - Ter horário de atendimento cadastrado
+> - [Clique aqui para saber como cadastrar um novo horário](../novo_horario/readme.md)
 
 ---
 
@@ -16,15 +18,17 @@
 -  No menu lateral, clique em **Configurações**
 - O menu será expandido para as configurações de atendimento
 - Em seguida, clique em **Horários**
-- Na tela **Horários de atendimento**, clique no ícone da **caneta** que aparece ao lado direito do horário que você deseja editar
--  Ao realizar isso, você será direcionado a tela, na qual poderá editar o horário de atendimento
+- Na tela **Horários de atendimento**, clique no ícone da **caneta** que aparece ao lado direito do horário que você deseja editar, na aba ações
+-  Ao realizar isso, você será direcionado à tela, na qual poderá editar o horário de atendimento
 
 
 > Versão Desktop
-![Alt text](img/Desktop/editar_horario_parte1.png)
+
+![Alt text](img/editar_horario_parte1_desktop.gif)
 
 > Versão mobile
-![Alt text](img/Mobile/editar_horario_parte1.png)
+
+![Alt text](img/editar_horario_parte1_mobile.gif)
 ---
 
 ### 2. Preenchimento de dados
@@ -33,15 +37,18 @@ Em **Novo horário de atendimento** digite um novo horário de início do atendi
 
 
 > Versão Desktop
-![Alt text](img/Desktop/editar_horario_parte2.png)
+
+![Alt text](img/editar_horario_parte2_desktop.png)
 
 > Versão mobile
-![Alt text](img/Mobile/editar_horario_parte2.png)
+
+![Alt text](img/editar_horario_parte2_mobile.png)
+
 ---
 
 ### 3. Ações disponíveis 
 - **Salvar**: grava os dados preenchidos  
-- **Cancelar**: descarta alterações e volta à tela anterior  
+- **Cancelar**: cancela as alterações e volta à tela anterior  
 
 ---
 

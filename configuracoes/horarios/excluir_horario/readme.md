@@ -7,6 +7,8 @@
 > - Estar logado no sistema  
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
+> - Ter horário de atendimento cadastrado
+> - [Clique aqui para saber como cadastrar um novo horário](../novo_horario/readme.md)
 
 ---
 
@@ -16,27 +18,31 @@
 -  No menu lateral, clique em **Configurações**
 - O menu será expandido para as configurações de atendimento
 - Em seguida, clique em **Horários**
-- Na tela **Horários de atendimento**, clique no ícone **X** que aparece ao lado direito do horário que você deseja excluir
-- Ao realizar essa ação, você será direcionado a tela **Excluir Horário**
+- Na tela **Horários de atendimento**, clique no ícone **X** que aparece ao lado direito do horário que você deseja excluir, na aba ações
+- Ao realizar essa ação, você será direcionado à tela **Excluir Horário**
 
 > Versão Desktop
-![Alt text](img/Desktop/excluir_horario_parte1.png)
+
+![Alt text](img/excluir_horario_parte1.gif)
 
 > Versão mobile
-![Alt text](img/Mobile/excluir_horario_parte1.png)
+
+![Alt text](img/excluir_horario_parte1_mobile.gif)
 
 ---
 
 ### 2. Ações disponíveis 
-- **Sim! Pode excluir**: exclui o horário
-- **Cancelar**: descarta a ação e volta à tela anterior  
+- **Sim! Pode excluir**: caso escolha essa opção, os dados do horário cadastrado serão permanentemente excluídos
+- **Cancelar**: cancela a ação e volta à tela anterior  
 
 
 > Versão Desktop
-![Alt text](img/Desktop/excluir_horario_parte2.png)
+
+![Alt text](img/excluir_horario_parte2_desktop.png)
 
 > Versão mobile
-![Alt text](img/Mobile/excluir_horario_parte2.png)
+
+![Alt text](img/excluir_horario_parte2_mobile.png)
 
 ---
 

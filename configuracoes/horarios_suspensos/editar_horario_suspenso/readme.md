@@ -1,12 +1,14 @@
 # 📘 Editar Horário suspenso
 
 > **Finalidade:**  
-> Esta tela permite ao usuário editar horários suspensos cadastrados.
+> Esta tela permite ao usuário editar os horários suspensos de atendimento cadastrados.
 
 > **Pré-requisitos:**    
 > - Estar logado no sistema  
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
+> - Ter um horário suspenso cadastrado
+> - [Clique aqui para saber como suspender o horário de atendimento de um profissional](../suspender_horario/readme.md)
 
 ---
 
@@ -20,10 +22,13 @@
 -  Ao realizar isso, você será direcionado a tela, na qual poderá editar o horário suspenso de agendamento
 
 > Versão Desktop
-![Alt text](img/Desktop/editar_horario_suspenso_parte1.png)
+
+![Alt text](img/editar_horario_suspenso_parte1_desktop.gif)
 
 > Versão mobile
-![Alt text](img/Mobile/editar_horario_suspenso_parte1.png)
+
+![Alt text](img/editar_horario_suspenso_parte1_mobile.gif)
+
 ---
 
 ### 2. Preenchimento de dados
@@ -33,15 +38,18 @@ Em **Suspender agendamentos**, indique:
 - Clique em **Salvar**
 
 > Versão Desktop
-![Alt text](img/Desktop/editar_horario_suspenso_parte2.png)
+
+![Alt text](img/editar_horario_suspenso_parte2_desktop.png)
 
 > Versão mobile
-![Alt text](img/Mobile/editar_horario_suspenso_parte2.png)
+
+![Alt text](img/editar_horario_suspenso_parte2_mobile.png)
+
 ---
 
 ### 3. Ações disponíveis 
 - **Salvar**: grava os dados preenchidos  
-- **Cancelar**: descarta alterações e volta à tela anterior  
+- **Cancelar**: cancela as alterações e volta à tela anterior  
 
 ---
 

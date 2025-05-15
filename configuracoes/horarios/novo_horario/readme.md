@@ -7,6 +7,9 @@
 > - Estar logado no sistema  
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
+> - Veja detalhes de como editar ou excluir um horário cadastrado em:  
+> - [Editar horário](../editar_horario/readme.md)
+> - [Excluir horário](../excluir_horario/readme.md)
 
 ---
 

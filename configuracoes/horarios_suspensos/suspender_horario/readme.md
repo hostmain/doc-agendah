@@ -1,12 +1,14 @@
 # 📘 Suspender Horário de atendimento do profissional
 
 > **Finalidade:**  
-> Esta tela permite ao usuário suspender o atendimento de cada profissional cadastrado por um tempo determinado.
+> Esta tela permite ao usuário suspender o atendimento de cada profissional cadastrado individualmente, por tempo determinado.
 
 > **Pré-requisitos:**    
 > - Estar logado no sistema  
 > - Ter permissão de usuário(empresário) 
 > - Ter conexão com a internet
+> - Ter um profissional cadastrado
+> - [Clique aqui para saber como cadastrar um novo profissional](../../../profissional/novo_profissional/readme.md)
 
 ---
 
@@ -20,10 +22,26 @@
 - Clique em **Suspender horário**
 
 > Versão desktop
-![Alt text](img/Desktop/horario_suspenso_parte1.gif)
+
+![Alt text](img/horario_suspenso_parte1_desktop.gif)
 
 > Versão mobile
-![Alt text](img/Mobile/horario_suspenso_parte1.gif)
+
+![Alt text](img/horario_suspenso_parte1_mobile.gif)
+
+**Ou**
+
+- No menu lateral, clique em **Atendimentos**
+- Em seguida, clique no ícone da engrenagem 
+- O sistema retornará a página **Suspender agendamentos**
+
+> Versão desktop
+
+![Alt text](img/horario_suspenso_parte2_desktop.gif)
+
+> Versão mobile
+
+![Alt text](img/horario_suspenso_parte2_mobile.gif)
 
 ---
 
@@ -34,16 +52,18 @@ Em **Suspender agendamentos**, indique:
 - Clique em **Salvar**
 
 > Versão desktop
-![Alt text](img/Desktop/horario_suspenso_parte2.png)
+
+![Alt text](img/horario_suspenso_parte3_desktop.png)
 
 > Versão mobile
-![Alt text](img/Mobile/horario_suspenso_parte2.png)
+
+![Alt text](img/horario_suspenso_parte3_mobile.png)
 
 ---
 
 ### 3. Ações disponíveis
 - **Salvar**: grava os dados preenchidos  
-- **Cancelar**: descarta alterações e volta à tela anterior  
+- **Cancelar**: cancela as alterações e volta à tela anterior  
 
 ---
 
